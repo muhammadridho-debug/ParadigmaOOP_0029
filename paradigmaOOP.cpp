@@ -29,4 +29,8 @@ int main(){
     nonElektronik.jumlah = 8;
     nonElektronik.kategori = "Non Elektronik";
     nonElektronik.tanggalproduksi = "2024-05-15";
+
+    elektronik.printData();
+    cout << "------------------------------" << endl;
+    nonElektronik.printData();
 }

@@ -9,4 +9,6 @@ public :
     string kategori;
     string tanggalproduksi;
 
+    void printData(){
+    }
 };

@@ -18,5 +18,9 @@ public :
 };
 
 int main(){
-
+    barang elektronik;
+    elektronik.nama = "Kulkas";
+    elektronik.jumlah = 5;
+    elektronik.kategori = "Elektronik";
+    elektronik.tanggalproduksi = "2024-06-01";
 }
